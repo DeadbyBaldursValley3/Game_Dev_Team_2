@@ -1,6 +1,7 @@
 # Game_Dev_Team_2
 
-# Penny Jorgensen, Leader, Storywriter | Stephen Wallace, Art Director
+# Team Members
+Penny Jorgensen, Leader, Storywriter | Stephen Wallace, Art Director
 
 # Overview of Game #1
 ### A 2d Pixel Dungeon Crawler with an overarching story. The player has abilities that can be built up and different classes.
