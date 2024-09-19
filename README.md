@@ -7,6 +7,6 @@
 ### A 2d Pixel Dungeon Crawler with an overarching story. The player has abilities that can be built up and different classes.
 
 # Overview of Game #2
-### 2D pixel cozy and calm game set in a small twn. You can go through your day with your job and build relationships with the people in the town.
+### 2D pixel cozy and calm game set in a small town. You can go through your day with your job and build relationships with the people in the town.
 
 # Images of Mockups
